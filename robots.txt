@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neurogrid.shop/sitemap.xml
